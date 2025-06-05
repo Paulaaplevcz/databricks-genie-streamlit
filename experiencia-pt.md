@@ -34,7 +34,7 @@ A partir da estrutura dele, conseguimos:
 
 Com isso, conseguimos criar um app que conversa com o Genie diretamente dentro da nossa aplicação Streamlit. O resultado ficou assim:
 
-![Interface interativa com o Genie](img1.png)
+![Interface interativa com o Genie](img.png)
 
 ---
 
