@@ -32,9 +32,10 @@ A partir da estrutura dele, conseguimos:
 - Configurar corretamente o `DATABRICKS_HOST` e o token pessoal (PAT)
 - Exibir respostas do Genie de forma dinâmica na tela
 
-Com isso, conseguimos criar um app que conversa com o Genie diretamente dentro da nossa aplicação Streamlit. O resultado ficou assim:
+A aplicação final já conseguia interagir com o Genie de forma fluida dentro do app.  
+Abaixo está uma captura de como ficou a interface funcionando:
 
-![Interface interativa com o Genie](img.png)
+![Interface do app com Genie integrado](img.png)
 
 ---
 
