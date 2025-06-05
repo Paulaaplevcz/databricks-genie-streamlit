@@ -18,7 +18,7 @@ Com a base de dados carregada, treinamos o Genie para que ele reconhecesse os da
 
 Nosso maior desafio foi: como conectar o Genie ao app de forma interativa?
 
-Após bastante pesquisa e tentativa, encontramos o repositório do [@datasciencemonkey](https://github.com/datasciencemonkey), que nos ajudou a entender como a integração via API funciona.
+Após bastante pesquisa e tentativa, encontramos este [repositório do @datasciencemonkey](https://github.com/datasciencemonkey/agents-on-databricks/tree/main), que foi essencial para entendermos como a integração via API funciona, especialmente na parte de conexão com o Genie e estruturação das conversas.
 
 ---
 
