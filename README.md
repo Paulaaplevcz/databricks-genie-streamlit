@@ -23,7 +23,3 @@ Created by:
 
 - [@Paulaaplevcz](https://github.com/Paulaaplevcz)
 - [@lmgaglione](https://github.com/lmgaglione)
-
-Partial inspiration from:
-
-- [@datasciencemonkey](https://github.com/datasciencemonkey) – [agents-on-databricks](https://github.com/datasciencemonkey/agents-on-databricks/tree/main)
