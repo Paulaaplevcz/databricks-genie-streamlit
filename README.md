@@ -17,10 +17,6 @@ This repository documents our experience and learnings — not as a full tutoria
 
 ---
 
-> 🛠️ For implementation details, check the source files or reach out — we’re happy to share what worked (and what didn’t 😅).
-
----
-
 ## Credits
 
 Created by:
@@ -31,9 +27,3 @@ Created by:
 Partial inspiration from:
 
 - [@datasciencemonkey](https://github.com/datasciencemonkey) – [agents-on-databricks](https://github.com/datasciencemonkey/agents-on-databricks/tree/main)
-
----
-
-## License
-
-MIT – see [LICENSE](LICENSE).
