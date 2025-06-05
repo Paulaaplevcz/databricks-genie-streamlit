@@ -1,8 +1,8 @@
 # Databricks Genie + Streamlit App Integration
 
 **This project summary is available in two languages:**  
-🇧🇷 (experiencia-pt.md)  
-🇺🇸 (experience-en.md)
+🇧🇷 [Experiência em português](experiencia-pt.md)  
+🇺🇸 [Experience in English](experience-en.md)
 
 ---
 
@@ -10,8 +10,10 @@
 
 Recently, we had the challenge of creating an application using **Streamlit Apps on Databricks**, integrating it with **Genie**, the conversational BI assistant from Databricks.
 
-We used an existing GitHub project as a starting point and worked as a duo to understand the architecture, setup, and integration flows.  
-This repository documents our approach and what we learned — not as a tutorial, but as a shared experience that may help others on a similar path.
+We worked as a duo to structure the app and connect it to Genie using the Databricks SDK and the conversational API.  
+For the integration logic with Genie, we referenced part of the implementation from the excellent work by [@datasciencemonkey](https://github.com/datasciencemonkey) in his [agents-on-databricks](https://github.com/datasciencemonkey/agents-on-databricks/tree/main) project.
+
+This repository documents our experience and learnings — not as a full tutorial, but as a shared journey that may support others facing similar steps.
 
 ---
 
@@ -24,11 +26,14 @@ This repository documents our approach and what we learned — not as a tutorial
 Created by:
 
 - [@Paulaaplevcz](https://github.com/Paulaaplevcz)
-- [@COLEGA](https://github.com/COLEGA)
+- [@lmgaglione](https://github.com/lmgaglione)
 
-Based on the work of:
+Partial inspiration from:
 
-- [@AUTOR_ORIGINAL](https://github.com/AUTOR_ORIGINAL) – [original repo](https://github.com/AUTOR_ORIGINAL/NOME_DO_REPO)
+- [@datasciencemonkey](https://github.com/datasciencemonkey) – [agents-on-databricks](https://github.com/datasciencemonkey/agents-on-databricks/tree/main)
 
 ---
 
+## License
+
+MIT – see [LICENSE](LICENSE).
